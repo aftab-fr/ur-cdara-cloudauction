@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this software."
+title: "UR-CDARA: User Rank-Based Combinatorial Double Auction for Cloud Resource Allocation (code and results)"
+type: software
+license: GPL-3.0-only
+authors:
+  - family-names: Muhammad
+    given-names: Niaz
+  - family-names: Umer
+    given-names: Asif
+  - family-names: Uddin
+    given-names: MD Aftab
+    email: md.uddin@utbm.fr
+    affiliation: "UTBM, CNRS, Institut FEMTO-ST"
+  - family-names: Gaber
+    given-names: Jaafar
+    affiliation: "UTBM, CNRS, Institut FEMTO-ST"
+version: "1.0.0"
+date-released: "2026-11-19"
+keywords:
+  - cloud computing
+  - combinatorial double auction
+  - resource allocation
+  - reputation
+  - CloudSim

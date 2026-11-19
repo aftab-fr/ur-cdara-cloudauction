@@ -1,0 +1,7 @@
+out/
+*.class
+__pycache__/
+.idea/
+.vscode/
+*.iml
+.DS_Store
